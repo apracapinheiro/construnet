@@ -1,0 +1,4 @@
+*.pyc
+.idea/
+construnet/settings_local.py
+*.sqlite3
